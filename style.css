@@ -5,14 +5,14 @@ body {
 
 a {
     text-decoration: none;
-        color: rgb(0, 255, 60);
+        color: darkmagenta;
 }
 h1, h2, h3 {
     margin: 0;
 
 }
 #container {
-    background-color: white;
+    background-color:gray;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -31,6 +31,7 @@ h1, h2, h3 {
 #nav {
     width:180px;
     float:left;
+    font: size 60px;
 }
 #nav ul {
     list-style-type:none;
