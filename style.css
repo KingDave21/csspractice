@@ -22,7 +22,7 @@ h1, h2, h3 {
     background-color: #66ccff;
     color:white;
     text-align: center;
-    padding:1-px;
+    padding: 10px;
 }
 
 #content {
@@ -46,7 +46,7 @@ h1, h2, h3 {
 
 #footer {
     clear:both;
-    padding: 10pxb;
+    padding: 10px;
     background-color:#999999;
     color:white;
     text-align:right;
